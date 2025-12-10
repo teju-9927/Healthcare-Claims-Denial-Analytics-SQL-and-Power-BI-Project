@@ -46,3 +46,54 @@ SQL queries were used to understand the data and define key metrics:
 •	Geographic distribution
 This analytical work defined the KPIs and visuals later used in Power BI.
 
+
+3. Power BI Dashboard (Frontend Visualization)
+Power BI transformed SQL insights into an interactive 4-page executive dashboard.
+
+PAGE 1 — Overview Dashboard
+Purpose:
+Provide a quick executive summary of claim volume, performance, and denial patterns.
+Visuals:
+KPI Cards (Total Claims, Denied Claims, Paid Amount, Billed Amount, Payment Rate)
+Payment Rate by Claim Type (Bar Chart)
+Denial Rate by Claim Type (Bar Chart)
+Monthly Denial Trend (Line Chart)
+Denial Rate by State (Map)
+Insight Box (“High denial variation across claim types & states.”)
+
+PAGE 2 — Financial Impact Analysis
+Purpose:
+Highlight revenue leakage and pinpoint high-loss denial reasons.
+Visuals:
+Waterfall Chart → Billed → Paid → Denial Loss → Net Revenue
+Decomposition Tree → Root cause breakdown (claim_type, denial_reason, provider, state)
+Pareto Chart → 80% of gross loss caused by top denial reasons
+Bar Chart → Gross vs Net Denial Loss
+Financial Insight Box
+
+PAGE 3 — Denial Analysis (Behavior Patterns)
+Purpose:
+Explore denial behaviors across multiple angles.
+Visuals:
+Donut Chart → Denial Loss by Denial Reason
+Bar Chart → Denial Loss by Claim Type
+Monthly Loss Trend (Line/Area Chart)
+Provider Risk (Top 10 providers with highest denial rate)
+
+PAGE 4 — Patient & Claims Breakdown
+Purpose:
+Understand how demographics and chronic conditions influence claims.
+Visuals:
+Pie Chart → Claim Type Distribution
+Pie Chart → Gender Distribution
+Filled Map → Total Claims by State
+Bar Chart → Chronic Conditions (Diabetes, CHF, CKD, COPD, ESRD)
+Patient Conditions Summary Table
+
+ 4. End-to-End Workflow Summary
+
+SQL was my analytical backend: I created the schema, loaded the data, performed validation checks, and wrote analytical queries to identify denial patterns, financial loss, provider risk, and patient condition trends.
+Power BI was my visualization frontend: I used the results of my SQL analysis to model the data and build a 4-page interactive dashboard featuring KPIs, Pareto charts, waterfall analysis, maps, and a decomposition tree.
+
+Together, SQL and Power BI form a complete end-to-end healthcare analytics workflow.
+
