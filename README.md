@@ -97,3 +97,11 @@ Power BI was my visualization frontend: I used the results of my SQL analysis to
 
 Together, SQL and Power BI form a complete end-to-end healthcare analytics workflow.
 
+Purpose
+This project is purely for educational and analytical purposes.
+No real patient data was used, and no personal or confidential information is included.
+
+Developed By
+Tejaswi.v
+Master’s Student | Healthcare informatics
+
