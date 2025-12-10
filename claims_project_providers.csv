@@ -1,0 +1,41 @@
+provider_id,provider_name,state,specialty
+PRV1000,Unity Hospital #1,PA,Cardiology
+PRV1001,Riverside Medical Center #2,MI,General Hospital
+PRV1002,St. Medical Center #3,OH,General Hospital
+PRV1003,Unity Medical Center #4,FL,Oncology
+PRV1004,Valley Hospital #5,FL,Neurology
+PRV1005,St. Medical Center #6,GA,Nephrology
+PRV1006,Riverside Clinic #7,GA,Pulmonology
+PRV1007,St. Hospital #8,MI,Pulmonology
+PRV1008,St. Clinic #9,GA,Pulmonology
+PRV1009,St. Medical Center #10,NC,Neurology
+PRV1010,Mercy Medical Center #11,MI,Neurology
+PRV1011,Valley Clinic #12,NC,Endocrinology
+PRV1012,St. Hospital #13,GA,Cardiology
+PRV1013,St. Hospital #14,OH,Orthopedics
+PRV1014,Unity Clinic #15,PA,General Hospital
+PRV1015,Mercy Medical Center #16,CA,Nephrology
+PRV1016,Valley Health #17,GA,Neurology
+PRV1017,Valley Hospital #18,CA,Neurology
+PRV1018,St. Hospital #19,GA,Pulmonology
+PRV1019,Unity Medical Center #20,OH,Neurology
+PRV1020,Valley Medical Center #21,FL,General Hospital
+PRV1021,Valley Medical Center #22,IL,Nephrology
+PRV1022,Valley Hospital #23,NC,Pulmonology
+PRV1023,Riverside Clinic #24,NC,Orthopedics
+PRV1024,Unity Clinic #25,GA,Cardiology
+PRV1025,Valley Clinic #26,IL,Orthopedics
+PRV1026,Unity Health #27,CA,Orthopedics
+PRV1027,Mercy Hospital #28,CA,Orthopedics
+PRV1028,Memorial Hospital #29,NY,Cardiology
+PRV1029,St. Health #30,NC,Orthopedics
+PRV1030,Valley Clinic #31,MI,Orthopedics
+PRV1031,Unity Clinic #32,OH,Pulmonology
+PRV1032,Unity Medical Center #33,PA,Orthopedics
+PRV1033,St. Clinic #34,MI,Cardiology
+PRV1034,Mercy Health #35,GA,Orthopedics
+PRV1035,Mercy Clinic #36,FL,Oncology
+PRV1036,Riverside Medical Center #37,FL,Cardiology
+PRV1037,Memorial Medical Center #38,NC,Nephrology
+PRV1038,Valley Health #39,FL,Cardiology
+PRV1039,Unity Health #40,CA,Nephrology
